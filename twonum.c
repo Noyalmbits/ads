@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+int a,b,sum;
+a=5;
+b=4;
+sum=a+b;
+printf("sum is %d\n",sum);
+return 0;
+}
+
